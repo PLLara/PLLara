@@ -29,3 +29,4 @@
 - [Comandos linux](https://pllara.medium.com/comandos-linux-4db7307c17b7?source=rss-54eeae4f7ec6------2)
 <!-- BLOG-POST-LIST:END -->
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PLLara)](https://github.com/anuraghazra/github-readme-stats)
