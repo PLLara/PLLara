@@ -25,5 +25,7 @@
 
 ### O que eu andei escrevendo:
 <!-- BLOG-POST-LIST:START -->
+- [Como fazer um switch sem javascript.](https://pllara.medium.com/como-fazer-um-switch-sem-javascript-a5b25981a21f?source=rss-54eeae4f7ec6------2)
+- [Comandos linux](https://pllara.medium.com/comandos-linux-4db7307c17b7?source=rss-54eeae4f7ec6------2)
 <!-- BLOG-POST-LIST:END -->
 
