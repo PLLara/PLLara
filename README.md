@@ -30,4 +30,4 @@
 <!-- BLOG-POST-LIST:END -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PLLara)](https://github.com/anuraghazra/github-readme-stats)
-<img align="left" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=PLLara&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0">
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PLLara&hide_border=true)](https://git.io/streak-stats)
