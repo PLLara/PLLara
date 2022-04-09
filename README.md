@@ -5,14 +5,14 @@
 <br>
 
 ### Linguagens e ferramentas que domino:
-<img align="left" alt="GITHUB" height="30px" src="https://raw.githubusercontent.com/PLLara/doc/main/linux.png">
-<img align="left" alt="GIT" height="30px" src="https://raw.githubusercontent.com/PLLara/doc/main/git.png">
-<img align="left" alt="GITHUB" height="30px" src="https://raw.githubusercontent.com/PLLara/doc/main/github.png">
-<img align="left" alt="HTML5" height="30px" src="https://raw.githubusercontent.com/PLLara/doc/main/html5.png">
-<img align="left" alt="CSS3" height="30px" src="https://raw.githubusercontent.com/PLLara/doc/main/css5.png">
-<img align="left" alt="JAVASCRIPT" height="30px" src="https://raw.githubusercontent.com/PLLara/doc/main/javascript.png">
-<img align="left" alt="NODEJS" height="30px" src="https://raw.githubusercontent.com/PLLara/doc/main/nodejs.png">
-<img align="left" alt="GITHUB" height="30px" src="https://raw.githubusercontent.com/PLLara/doc/main/postgres.png">
+<img align="left" alt="GITHUB" height="50px" src="https://raw.githubusercontent.com/PLLara/doc/main/linux.png">
+<img align="left" alt="GIT" height="50px" src="https://raw.githubusercontent.com/PLLara/doc/main/git.png">
+<img align="left" alt="GITHUB" height="50px" src="https://raw.githubusercontent.com/PLLara/doc/main/github.png">
+<img align="left" alt="HTML5" height="50px" src="https://raw.githubusercontent.com/PLLara/doc/main/html5.png">
+<img align="left" alt="CSS3" height="50px" src="https://raw.githubusercontent.com/PLLara/doc/main/css5.png">
+<img align="left" alt="JAVASCRIPT" height="50px" src="https://raw.githubusercontent.com/PLLara/doc/main/javascript.png">
+<img align="left" alt="NODEJS" height="50px" src="https://raw.githubusercontent.com/PLLara/doc/main/nodejs.png">
+<img align="left" alt="GITHUB" height="50px" src="https://raw.githubusercontent.com/PLLara/doc/main/postgres.png">
 <br>
 
 ### O que eu andei escrevendo:
