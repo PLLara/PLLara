@@ -13,7 +13,7 @@
 [![My Skills](https://skillicons.dev/icons?i=linux,html,css,js,git,github)](https://skillicons.dev)
 
 
-### Linguagens e ferramentas estou estudando:
+### O que eu ando estudando
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,c#,haxe)](https://skillicons.dev)
 
