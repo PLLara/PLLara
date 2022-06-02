@@ -14,6 +14,8 @@
 <img align="left" alt="NODEJS" height="40px" src="https://raw.githubusercontent.com/PLLara/doc/main/nodejs.png">
 <img align="left" alt="GITHUB" height="40px" src="https://raw.githubusercontent.com/PLLara/doc/main/postgres.png">
 <br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,flutter,linux,postgres,git,github,nodejs)](https://skillicons.dev)
+
 
 ### O que eu andei escrevendo:
 <!-- BLOG-POST-LIST:START -->
