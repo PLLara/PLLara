@@ -8,6 +8,11 @@
 
 [![My Skills](https://skillicons.dev/icons?i=linux,html,css,js,git,github,react,nextjs,nodejs,flutter,sqlite,firebase)](https://skillicons.dev)
 
+### A base dos meus conhecimentos:
+
+[![My Skills](https://skillicons.dev/icons?i=linux,html,css,js,git,github)](https://skillicons.dev)
+
+
 ### Linguagens e ferramentas estou estudando:
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,c#,haxe)](https://skillicons.dev)
