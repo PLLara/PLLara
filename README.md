@@ -4,9 +4,9 @@
 <a target="_blank" href="https://www.linkedin.com/in/pedro-lucas-de-oliveira-lara-387130204/"><img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg"></a>
 <br>
 
-### Linguagens e ferramentas que domino:
+## Linguagens e ferramentas que domino:
 
-[![My Skills](https://skillicons.dev/icons?i=linux,html,css,js,git,github,react,nextjs,nodejs,flutter,sqlite,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,flutter,sqlite,firebase)](https://skillicons.dev)
 
 ### A base dos meus conhecimentos:
 
