@@ -1,19 +1,18 @@
 ### Opa, tudo bom? Meu nome é Pedro Lara
 
 ### Contato: 
-<a target="_blank" href="https://www.linkedin.com/in/pedro-lucas-de-oliveira-lara-387130204/"><img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg"></a>
+[![My Skills](https://skillicons.dev/icons?i=linux,github,react,nextjs,flutter)]("https://www.linkedin.com/in/pedro-lucas-de-oliveira-lara-387130204/")
 <br>
 
 ## Linguagens e ferramentas que domino:
-Front: [![My Skills](https://skillicons.dev/icons?i=linux,github,react,nextjs,flutter)](https://skillicons.dev) </br>
-back: [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev) </br>
-db: [![My Skills](https://skillicons.dev/icons?i=sqlite,firebase)](https://skillicons.dev) </br>
+Front: [![My Skills](https://skillicons.dev/icons?i=linux,github,react,nextjs,flutter)] </br>
+back: [![My Skills](https://skillicons.dev/icons?i=nodejs)] </br>
+db: [![My Skills](https://skillicons.dev/icons?i=sqlite,firebase)] </br>
 
 
 ### O que eu ando estudando:
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,c#,haxe)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=python,java,c#,haxe)]
 
 ### O que eu andei escrevendo:
 <!-- BLOG-POST-LIST:START -->
