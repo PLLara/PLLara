@@ -5,15 +5,6 @@
 <br>
 
 ### Linguagens e ferramentas que domino:
-<img align="left" alt="GITHUB" height="40px" src="https://raw.githubusercontent.com/PLLara/doc/main/linux.png">
-<img align="left" alt="GIT" height="40px" src="https://raw.githubusercontent.com/PLLara/doc/main/git.png">
-<img align="left" alt="GITHUB" height="40px" src="https://raw.githubusercontent.com/PLLara/doc/main/github.png">
-<img align="left" alt="HTML5" height="40px" src="https://raw.githubusercontent.com/PLLara/doc/main/html5.png">
-<img align="left" alt="CSS3" height="40px" src="https://raw.githubusercontent.com/PLLara/doc/main/css5.png">
-<img align="left" alt="JAVASCRIPT" height="40px" src="https://raw.githubusercontent.com/PLLara/doc/main/javascript.png">
-<img align="left" alt="NODEJS" height="40px" src="https://raw.githubusercontent.com/PLLara/doc/main/nodejs.png">
-<img align="left" alt="GITHUB" height="40px" src="https://raw.githubusercontent.com/PLLara/doc/main/postgres.png">
-<br>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,flutter,linux,postgres,git,github,nodejs)](https://skillicons.dev)
 
