@@ -6,7 +6,7 @@
 
 ### Linguagens e ferramentas que domino:
 
-[![My Skills](https://skillicons.dev/icons?i,linux,html,css,js,git,github,nodejs,flutter,postgres,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,html,css,js,git,github,nodejs,flutter,postgres,firebase)](https://skillicons.dev)
 
 
 ### O que eu andei escrevendo:
