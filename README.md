@@ -5,8 +5,7 @@
 <br>
 
 ## Linguagens e ferramentas que domino:
-
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,flutter,sqlite,firebase)](https://skillicons.dev)
+Front: [![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,flutter,sqlite,firebase)](https://skillicons.dev)
 
 ### A base dos meus conhecimentos:
 
