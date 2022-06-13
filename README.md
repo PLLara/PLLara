@@ -1,8 +1,5 @@
 ### Meu nome é Pedro Lara
 
-### Contato: 
-[![My Skills](https://skillicons.dev/icons?i=linux,github,react,nextjs,flutter)]("https://www.linkedin.com/in/pedro-lucas-de-oliveira-lara-387130204/")
-<br>
 
 ## Linguagens e ferramentas que domino:
 Front: ![My Skills](https://skillicons.dev/icons?i=linux,github,react,nextjs,flutter) </br>
