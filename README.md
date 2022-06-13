@@ -12,7 +12,7 @@ db: ![My Skills](https://skillicons.dev/icons?i=sqlite,firebase) </br>
 
 ### O que eu ando estudando:
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,c#,haxe)]
+![My Skills](https://skillicons.dev/icons?i=python,java,c#,haxe)
 
 ### O que eu andei escrevendo:
 <!-- BLOG-POST-LIST:START -->
