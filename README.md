@@ -5,8 +5,8 @@
 <br>
 
 ## Linguagens e ferramentas que domino:
-Front: ![My Skills](https://skillicons.dev/icons?i=linux,github,react,nextjs,flutter)]() </br>
-back: ![My Skills](https://skillicons.dev/icons?i=nodejs)]() </br>
+Front: ![My Skills](https://skillicons.dev/icons?i=linux,github,react,nextjs,flutter) </br>
+back: ![My Skills](https://skillicons.dev/icons?i=nodejs) </br>
 db: ![My Skills](https://skillicons.dev/icons?i=sqlite,firebase) </br>
 
 
