@@ -9,7 +9,7 @@
   
   
 ### O que eu ando estudando:
-![My Skills](https://skillicons.dev/icons?i=java,cs,django,docker,electron,jest,gcp,redux,mongodb)
+![My Skills](https://skillicons.dev/icons?i=java,django,docker,electron,jest,gcp,redux,mongodb)
 
 
 ### O que eu andei escrevendo:
