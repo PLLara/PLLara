@@ -3,7 +3,7 @@
 
 ## Linguagens e ferramentas que domino:
 Front: ![My Skills](https://skillicons.dev/icons?i=linux,github,react,nextjs,flutter) </br>
-back: ![My Skills](https://skillicons.dev/icons?i=nodejs) </br>
+back: ![My Skills](https://skillicons.dev/icons?i=nodejs)  ![My Skills](https://skillicons.dev/icons?i=python)  ![My Skills](https://skillicons.dev/icons?i=express) </br>
 db: ![My Skills](https://skillicons.dev/icons?i=sqlite,firebase) </br>
 
 
