@@ -9,7 +9,7 @@
   
   
 ### O que eu ando estudando:
-![My Skills](https://skillicons.dev/icons?i=java,csharp)
+![My Skills](https://skillicons.dev/icons?i=java,cs)
 
 
 ### O que eu andei escrevendo:
