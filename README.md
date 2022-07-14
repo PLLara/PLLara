@@ -1,4 +1,4 @@
-### Meu nome é Pedro Lara
+### Opa, tudo bom? Meu nome é Pedro Lara, atualmente sou desenvolvedor fullstack na Mooney!
 
 | frontend | backend | databases |
 |----------|---------|-----------|
