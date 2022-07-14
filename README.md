@@ -6,7 +6,6 @@ Front: ![My Skills](https://skillicons.dev/icons?i=linux,github,react,nextjs,flu
 back: ![My Skills](https://skillicons.dev/icons?i=nodejs,python,express)  </br>
 db: ![My Skills](https://skillicons.dev/icons?i=sqlite,firebase) </br>
 
-
 ### O que eu ando estudando:
 
 ![My Skills](https://skillicons.dev/icons?i=java,c#,haxe)
@@ -18,6 +17,3 @@ db: ![My Skills](https://skillicons.dev/icons?i=sqlite,firebase) </br>
 - [Como fazer um switch sem javascript.](https://pllara.medium.com/como-fazer-um-switch-sem-javascript-a5b25981a21f?source=rss-54eeae4f7ec6------2)
 - [Comandos linux](https://pllara.medium.com/comandos-linux-4db7307c17b7?source=rss-54eeae4f7ec6------2)
 <!-- BLOG-POST-LIST:END -->
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PLLara)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PLLara&hide_border=true)](https://git.io/streak-stats)
