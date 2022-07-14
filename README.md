@@ -3,13 +3,13 @@
 
 ## Linguagens e ferramentas que domino:
 Front: ![My Skills](https://skillicons.dev/icons?i=linux,github,react,nextjs,flutter) </br>
-back: ![My Skills](https://skillicons.dev/icons?i=nodejs)  ![My Skills](https://skillicons.dev/icons?i=python)  ![My Skills](https://skillicons.dev/icons?i=express) </br>
+back: ![My Skills](https://skillicons.dev/icons?i=nodejs,python,express)  </br>
 db: ![My Skills](https://skillicons.dev/icons?i=sqlite,firebase) </br>
 
 
 ### O que eu ando estudando:
 
-![My Skills](https://skillicons.dev/icons?i=python,java,c#,haxe)
+![My Skills](https://skillicons.dev/icons?i=java,c#,haxe)
 
 ### O que eu andei escrevendo:
 <!-- BLOG-POST-LIST:START -->
