@@ -21,4 +21,4 @@
 <!-- BLOG-POST-LIST:END -->
 
 #### Outras coisinhas que eu uso só quando preciso
-![Base](https://skillicons.dev/icons?i=vegas,photoshop,wordpress)  
+![Base](https://skillicons.dev/icons?i=premiere,photoshop,wordpress)  
