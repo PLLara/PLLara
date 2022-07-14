@@ -5,12 +5,10 @@
 
 | frontend | backend | databases |
 |----------|---------|-----------|
-|     ![My Skills](https://skillicons.dev/icons?i=linux,github,react,nextjs,flutter)     |         |           |
+|     ![My Skills](https://skillicons.dev/icons?i=linux,github,react,nextjs,flutter)     |    ![My Skills](https://skillicons.dev/icons?i=linux,github,react,nextjs,flutter)     |    ![My Skills](https://skillicons.dev/icons?i=sqlite,firebase)        |
 |          |         |           |
 |          |         |           |
-Front: ![My Skills](https://skillicons.dev/icons?i=linux,github,react,nextjs,flutter) </br>
-back: ![My Skills](https://skillicons.dev/icons?i=nodejs,python,express)  </br>
-db: ![My Skills](https://skillicons.dev/icons?i=sqlite,firebase) </br>
+
 
 ### O que eu ando estudando:
 
