@@ -3,7 +3,7 @@
 ## Linguagens e ferramentas que domino:
 | Frontend | Backend | Database/Cloud |
 |----------|---------|-----------|
-|![Base](https://skillicons.dev/icons?i=linux,github,html,css)            |![Base](https://skillicons.dev/icons?i=nodejs,express)   |![Base](https://skillicons.dev/icons?i=heroku,googlecloud)   |
+|![Base](https://skillicons.dev/icons?i=linux,github,html,css)            |![Base](https://skillicons.dev/icons?i=nodejs,express)   |![Base](https://skillicons.dev/icons?i=heroku,googlecloud,netlify)   |
 |![Web](https://skillicons.dev/icons?i=typescript,react,nextjs,redux)     |![Base](https://skillicons.dev/icons?i=python)           |![Base](https://skillicons.dev/icons?i=firebase,mongodb)   |   
 |![Mobile](https://skillicons.dev/icons?i=dart,flutter)                   |                                                         |![Base](https://skillicons.dev/icons?i=sqlite,postgres)   |
   
