@@ -6,9 +6,9 @@
 
 | frontend | backend | databases |
 |----------|---------|-----------|
-|BASE:    ![My Skills](https://skillicons.dev/icons?i=linux,github)              |           |
-|WEB:     ![My Skills](https://skillicons.dev/icons?i=javascript,react,nextjs)   |         |           |
-|MOBILE:  ![My Skills](https://skillicons.dev/icons?i=dart,flutter)              |           |
+|![Base](https://skillicons.dev/icons?i=linux,github)             |![Base](https://skillicons.dev/icons?i=linux,github)   |
+|![Web](https://skillicons.dev/icons?i=javascript,react,nextjs)   |![Base](https://skillicons.dev/icons?i=linux,github)             |           |
+|![Mobile](https://skillicons.dev/icons?i=dart,flutter)           |![Base](https://skillicons.dev/icons?i=linux,github)            |
 
 ### O que eu ando estudando:
 
