@@ -4,12 +4,12 @@
 | Frontend | Backend | Database/Cloud |
 |----------|---------|-----------|
 |![Base](https://skillicons.dev/icons?i=linux,html,css,git,github)        |![Base](https://skillicons.dev/icons?i=nodejs,express)   |![Base](https://skillicons.dev/icons?i=heroku,netlify)   |
-|![Web](https://skillicons.dev/icons?i=typescript,react,nextjs)           |![Base](https://skillicons.dev/icons?i=python)           |![Base](https://skillicons.dev/icons?i=firebase,mongodb)   |   
+|![Web](https://skillicons.dev/icons?i=typescript,react,nextjs)           |![Base](https://skillicons.dev/icons?i=python)           |![Base](https://skillicons.dev/icons?i=firebase)   |   
 |![Mobile](https://skillicons.dev/icons?i=dart,flutter)                   |                                                         |![Base](https://skillicons.dev/icons?i=sqlite,postgres)   |
   
   
 ### O que eu ando estudando:
-![My Skills](https://skillicons.dev/icons?i=java,cs,django,docker,electron,jest,gcp,redux)
+![My Skills](https://skillicons.dev/icons?i=java,cs,django,docker,electron,jest,gcp,redux,mongodb)
 
 
 ### O que eu andei escrevendo:
