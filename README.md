@@ -1,5 +1,10 @@
 ### Meu nome é Pedro Lara
 
+| frontend | backend | databases |
+|----------|---------|-----------|
+|          |         |           |
+|          |         |           |
+|          |         |           |
 
 ## Linguagens e ferramentas que domino:
 Front: ![My Skills](https://skillicons.dev/icons?i=linux,github,react,nextjs,flutter) </br>
