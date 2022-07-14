@@ -1,8 +1,5 @@
 ### Opa, tudo bom? Meu nome é Pedro Lara, atualmente sou desenvolvedor fullstack na Mooney!
 
-
-<fieldset>
-  
 ## Linguagens e ferramentas que domino:
   
 | Frontend | Backend | Database/Cloud |
@@ -11,8 +8,6 @@
 |![Web](https://skillicons.dev/icons?i=typescript,react,nextjs,redux)   |![Base](https://skillicons.dev/icons?i=python)           |![Base](https://skillicons.dev/icons?i=firebase,mongodb)   |   
 |![Mobile](https://skillicons.dev/icons?i=dart,flutter)                 |                                                         |![Base](https://skillicons.dev/icons?i=sqlite,postgres)   |
   
-</fieldset>
-
 ### O que eu ando estudando:
 
 ![My Skills](https://skillicons.dev/icons?i=java,c#,haxe)
