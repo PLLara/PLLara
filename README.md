@@ -9,11 +9,13 @@
 ![My Skills](https://skillicons.dev/icons?i=linux,github,react,nextjs,flutter)   |
 ![My Skills](https://skillicons.dev/icons?i=linux,github,react,nextjs,flutter)   |
 ![My Skills](https://skillicons.dev/icons?i=sqlite,firebase)                     |
-|
 
-![My Skills](https://skillicons.dev/icons?i=linux,github,react,nextjs,flutter)   |
-![My Skills](https://skillicons.dev/icons?i=linux,github,react,nextjs,flutter)   |
-![My Skills](https://skillicons.dev/icons?i=sqlite,firebase)                     |
+
+| frontend | backend | databases |
+|----------|---------|-----------|
+|          |         |           |
+|          |         |           |
+|          |         |           |
 
 ### O que eu ando estudando:
 
