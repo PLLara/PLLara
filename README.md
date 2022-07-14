@@ -3,19 +3,12 @@
 
 ## Linguagens e ferramentas que domino:
 
-| frontend | backend | databases |
-|----------|---------|-----------|
-|
-  |
-![My Skills](https://skillicons.dev/icons?i=linux,github,react,nextjs,flutter)   |
-![My Skills](https://skillicons.dev/icons?i=sqlite,firebase)                     |
-
 
 | frontend | backend | databases |
 |----------|---------|-----------|
-|![My Skills](https://skillicons.dev/icons?i=linux,github,react,nextjs,flutter) |         |           |
-|          |         |           |
-|          |         |           |
+|![My Skills](https://skillicons.dev/icons?i=linux,github)|             |           |
+|![My Skills](https://skillicons.dev/icons?i=javascript,react,nextjs)   |         |           |
+|![My Skills](https://skillicons.dev/icons?i=linux,dart,flutter)|       |           |
 
 ### O que eu ando estudando:
 
