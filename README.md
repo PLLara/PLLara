@@ -1,4 +1,4 @@
-# Opa, tudo bom? Bem vindo ao meu perfil :)
+# Opa, tudo bom? 
 
 ## Linguagens e ferramentas que domino:
 | Frontend | Backend | Database/Cloud |
