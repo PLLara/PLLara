@@ -9,7 +9,7 @@
   
   
 ### Atualment estudando:
-![My Skills](https://skillicons.dev/icons?i=java,docker,electron,jest,gcp,redux,mongodb)
+![My Skills](https://skillicons.dev/icons?i=java,docker,electron,jest,gcp,redux,mongodb,aws)
 
 
 ### Blog posts:
