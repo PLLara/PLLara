@@ -3,8 +3,8 @@
 ## Seja bem-vindo ao meu perfil, aqui vai as ferramentas e linguagems que eu domino:
 | Frontend | Backend | Database/Cloud |
 |----------|---------|-----------|
-|![Base](https://skillicons.dev/icons?i=linux,github&perline=3)        |![Base](https://skillicons.dev/icons?i=nodejs,express,go)   |![Base](https://skillicons.dev/icons?i=heroku,netlify)   |
-|![Web](https://skillicons.dev/icons?i=typescript,react,nextjs)                     |![Base](https://skillicons.dev/icons?i=python)           |![Base](https://skillicons.dev/icons?i=firebase)   |   
+|![Base](https://skillicons.dev/icons?i=linux,github&perline=3)        |![Base](https://skillicons.dev/icons?i=nodejs,express)   |![Base](https://skillicons.dev/icons?i=heroku,netlify)   |
+|![Web](https://skillicons.dev/icons?i=typescript,react,nextjs)                     |![Base](https://skillicons.dev/icons?i=python,go)           |![Base](https://skillicons.dev/icons?i=firebase)   |   
 |![Mobile](https://skillicons.dev/icons?i=flutter)                             |                                                         |![Base](https://skillicons.dev/icons?i=sqlite,postgres)   |
   
   
