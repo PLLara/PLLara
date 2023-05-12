@@ -1,6 +1,6 @@
 # Opa, tudo bom? Meu nome é Pedro Lara.
 
-## Seja bem-vindo ao meu perfil, aqui vai as ferramentas e linguagems que eu domino:
+## As ferramentas que eu domino são essas:
 | Frontend | Backend | Database/Cloud |
 |----------|---------|-----------|
 |![Base](https://skillicons.dev/icons?i=linux,github&perline=3)        |![Base](https://skillicons.dev/icons?i=nodejs,express)   |![Base](https://skillicons.dev/icons?i=sqlite,postgres)   |
