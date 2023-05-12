@@ -1,7 +1,7 @@
 # Opa, tudo bom? Meu nome é Pedro Lara.
 
 ## As ferramentas que eu domino são essas:
-| Frontend | Backend | Database/Cloud |
+| Front | Back | Infra |
 |----------|---------|-----------|
 |![Base](https://skillicons.dev/icons?i=linux,github&perline=3)        |![Base](https://skillicons.dev/icons?i=nodejs,express)   |![Base](https://skillicons.dev/icons?i=sqlite,postgres)   |
 |![Web](https://skillicons.dev/icons?i=typescript,react,nextjs)                     |![Base](https://skillicons.dev/icons?i=python,go)           |  ![Base](https://skillicons.dev/icons?i=heroku,netlify)  |   
