@@ -4,9 +4,9 @@
 | Front | Back | Infra |
 |----------|---------|-----------|
 |![Base](https://skillicons.dev/icons?i=linux,github&perline=3)        |![Base](https://skillicons.dev/icons?i=nodejs,go)   |![Base](https://skillicons.dev/icons?i=firebase,postgres)   |
-|![Web](https://skillicons.dev/icons?i=nextjs,flutter)                     |![Base](https://skillicons.dev/icons?i=express)           |  ![Base](https://skillicons.dev/icons?i=heroku,netlify)  |   
+|![Web](https://skillicons.dev/icons?i=nextjs,flutter,electron)                     |![Base](https://skillicons.dev/icons?i=express)           |  ![Base](https://skillicons.dev/icons?i=heroku,netlify,gcp,digitalocean,aws)  |   
   
   
 ### Atualment estudando:
-![My Skills](https://skillicons.dev/icons?i=java,docker,electron,jest,gcp,redux,mongodb,aws)
+![My Skills](https://skillicons.dev/icons?i=docker,jest,gcp)
 
